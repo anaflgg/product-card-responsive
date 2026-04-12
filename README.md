@@ -46,7 +46,7 @@ O principal objetivo foi praticar o desenvolvimento mobile-first e entender como
 
 ### 🐛 Desafios e Soluções
 
-Identifiquei um pequeno espaço abaixo da imagem causado pelo comportamento padrão inline da tag `<img>`.
+- Identifiquei um pequeno espaço abaixo da imagem causado pelo comportamento padrão inline da tag `<img>`.
 
 Resolvido com:
 
