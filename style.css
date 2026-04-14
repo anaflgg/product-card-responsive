@@ -118,6 +118,14 @@ footer {
     font-family: var(--montserrat);
 }
 
+.attribution {
+    font-size: 0.6875rem; text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 @media (min-width: 650px) {
     main {
         flex-direction: row;
