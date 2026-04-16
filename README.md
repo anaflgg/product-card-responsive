@@ -74,4 +74,4 @@ Este é um projeto estático, não precisa instalar nada.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/anaflgg/product-preview-card.git
+git clone https://github.com/anaflgg/product-card-responsive.git
