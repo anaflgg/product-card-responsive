@@ -6,7 +6,7 @@
 
 🔗 Desafio original: https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
-### ✨ [Veja o site ao vivo aqui!](https://anaflgg.github.io/product-preview-card/)
+### ✨ [Veja o site ao vivo aqui!](https://anaflgg.github.io/product-card-responsive/)
 
 ---
 
